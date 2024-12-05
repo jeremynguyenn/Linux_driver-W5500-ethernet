@@ -1,4 +1,4 @@
-![image](docs/images/w5500_ifconfig_screenshot.png)
+![image](W5500LinuxDriver-main/docs/images/w5500_ifconfig_screenshot.png)
 
 # Schematic
 
