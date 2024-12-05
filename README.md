@@ -2,4 +2,4 @@
 
 # Schematic
 
-![image](docs/images/w5500_schematic.svg)
+![image](W5500LinuxDriver-main/docs/images/w5500_schematic.svg)
