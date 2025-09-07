@@ -5,7 +5,7 @@
 #include <linux/gpio/consumer.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("JeroenMampaey");
+MODULE_AUTHOR("NGuyen NHan");
 MODULE_DESCRIPTION("A simple network device for a W5500 and Raspberry-Pi");
 MODULE_VERSION("1.0");
 
